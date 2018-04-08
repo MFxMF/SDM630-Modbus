@@ -28,8 +28,6 @@ Requirements:
 import minimalmodbus
 import serial
 import Domoticz
-from datetime import datetime, timedelta
-import time
 
 
 class BasePlugin:
