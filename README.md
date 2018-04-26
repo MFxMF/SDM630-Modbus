@@ -6,14 +6,13 @@ cd ~/domoticz/plugins<br>
 git clone https://github.com/MFxMF/SDM630-Modbus <br>
 
 <br>
-Used python modules: 
-pyserial -> -https://pythonhosted.org/pyserial/
+Used python modules: <Br>
+pyserial -> -https://pythonhosted.org/pyserial/ <br>
 minimalmodbus -> http://minimalmodbus.readthedocs.io<br>
 
 
 Restart your domoticz server.
 
-<br>
 <br>
 Tested on domoticz 3.9319
 
