@@ -1,5 +1,5 @@
 # SDM630-Modbus
-SDM630-Modbus 3P4W Multifunction &amp;  Power Analyser WithRS485 Port modbus RTU for the domoticz plugin
+SDM630-Modbus 3P4W Multifunction Power Analyser WithRS485 Port modbus RTU for the domoticz plugin
 
 Installation: <br>
 cd ~/domoticz/plugins<br>
