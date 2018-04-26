@@ -10,7 +10,6 @@ Used python modules: <br>
 pyserial -> -https://pythonhosted.org/pyserial/ <br>
 minimalmodbus -> http://minimalmodbus.readthedocs.io<br>
 
-
 Restart your domoticz server.
 <br>
 Tested on domoticz 3.9319
